@@ -1,1 +1,1 @@
-# LearnPython
+# LearnPython for 30 days
