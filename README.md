@@ -1,1 +1,2 @@
-# LearnPython for 30 days
+# Learning Python
+Learning Python basics using Jupyter Notebook
